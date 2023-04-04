@@ -1,1 +1,5 @@
-# FENCE_Financial_Exaggerated_Numeral_ClassifiEr
+# Financial Exaggerated Numeral ClassifiEr (FENCE)
+
+
+STEPS
+-----
