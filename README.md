@@ -1,6 +1,6 @@
 # Financial Exaggerated Numeral ClassifiEr (FENCE)
 
-Live demo @ Hugging Face Spaces: https://huggingface.co/spaces/sohomghosh/FENCE_Financial_Exaggerated_Numeral_ClassifiEr
+Demo: https://youtu.be/kXBflXu4EhQ
 
 How to use?
 -----
